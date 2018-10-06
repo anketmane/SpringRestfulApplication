@@ -32,8 +32,5 @@ public class Mycontroller {
 		System.out.println("method m3");
 	}
 	
-	public void m4()
-	{
-		System.out.println("method m4");
-	}
+	
 }
