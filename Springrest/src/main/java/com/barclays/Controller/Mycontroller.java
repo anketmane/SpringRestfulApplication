@@ -22,6 +22,10 @@ public class Mycontroller {
 		
 	}
 	
+	public void m3(){
+		
+	}
+	
 
 
 	
