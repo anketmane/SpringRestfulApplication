@@ -19,8 +19,8 @@ public class Mycontroller {
 	}
 
 	
-	public void m()
+	public void m1()
 	{
-		System.out.println("method m");
+		System.out.println("method m1");
 	}
 }
