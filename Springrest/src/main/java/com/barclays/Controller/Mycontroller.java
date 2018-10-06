@@ -14,13 +14,19 @@ public class Mycontroller {
 		System.out.println("Get method");
 
 		String s="hii";
+		
 
 		return new ResponseEntity<String>(s,HttpStatus.OK);
 	}
 
 	
+	public void m1(){
+		
+	}
+ public void m2(){
+	 
+ }
 	
-
 
 	
 	
