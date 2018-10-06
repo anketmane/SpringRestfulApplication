@@ -19,7 +19,9 @@ public class Mycontroller {
 	}
 
 	
-	
+	public void m1(){
+		
+	}
 
 
 	
