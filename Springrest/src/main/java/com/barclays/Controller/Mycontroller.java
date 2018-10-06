@@ -23,8 +23,7 @@ public class Mycontroller {
 	
 	public void m2()
 	{
-		System.out.println("hii");
-		System.out.println("hii anket");
+		
 		System.out.println("method m2");
 	}
 	
