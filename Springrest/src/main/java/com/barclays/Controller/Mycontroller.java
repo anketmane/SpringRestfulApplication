@@ -13,7 +13,7 @@ public class Mycontroller {
 	public ResponseEntity<String> get(){
 		System.out.println("Get method");
 
-		String s="hii";
+		String s="Anket";
 
 		return new ResponseEntity<String>(s,HttpStatus.OK);
 	}
