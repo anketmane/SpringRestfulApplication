@@ -20,10 +20,6 @@ public class Mycontroller {
 
 	
 
-	
-	
-	
-	
 	public void m4()
 	{
 		System.out.println("method m3");
