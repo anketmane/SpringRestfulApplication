@@ -18,13 +18,7 @@ public class Mycontroller {
 		return new ResponseEntity<String>(s,HttpStatus.OK);
 	}
 
-	public void m2(){
-		
-	}
 	
-	public void m3(){
-		
-	}
 	
 
 
